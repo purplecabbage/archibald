@@ -1,18 +1,5 @@
 
 
-// Slack = require('node-slackr');
-
-
-// slack = new Slack('https://hooks.slack.com/services/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',{
-//   channel: "@purplecabbage",
-//   username: "archibald"
-// });
-
-
-// slack.notify("Message", function(err, result){
-//     console.log(err,result);
-// });
-
 var token = require('./secret-token');
 
 
